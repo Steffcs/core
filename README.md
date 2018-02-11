@@ -1,6 +1,6 @@
 # core
 
-this  core it's an implementations of  @jhonnyx2012 core 
+tThis core is based on an implementation of  @jhonnyx2012 core 
 
 - [x] BaseActivity
 - [x] NavigationFragments
