@@ -6,10 +6,7 @@ import io.reactivex.Scheduler;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.schedulers.Schedulers;
-
-/**
- * Created by irenecedeno on 06-02-18.
- */
+/** * Created by jhonnybarrios on 11/29/17. * colaborate  irenecedeno on 06-02-18. */
 
 public abstract class UseCase<T> {
     private CompositeDisposable compositeDisposable = new CompositeDisposable();

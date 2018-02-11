@@ -18,9 +18,7 @@ import com.jappy.jappy_core.presentation.OnLoadMoreListener;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by irenecedeno on 07-02-18.
- */
+/** * Created by jhonnybarrios on 11/29/17. * colaborate  irenecedeno on 06-02-18. */
 
 public abstract class BaseListAdapter <T,V extends BaseViewHolder> extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     protected static final int VIEW_TYPE_FOOTER= 34444;

@@ -7,9 +7,7 @@ import android.support.annotation.RequiresApi;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
 
-/**
- * Created by irenecedeno on 11-02-18.
- */
+/** * Created by jhonnybarrios on 11/29/17. * colaborate  irenecedeno on 06-02-18. */
 
 public abstract class BaseCustomView extends FrameLayout {
     public BaseCustomView(Context context) {

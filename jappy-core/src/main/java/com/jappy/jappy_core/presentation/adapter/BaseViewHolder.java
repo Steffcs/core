@@ -11,9 +11,7 @@ import android.view.View;
 
 import java.util.Locale;
 
-/**
- * Created by irenecedeno on 07-02-18.
- */
+/** * Created by jhonnybarrios on 11/29/17. * colaborate  irenecedeno on 06-02-18. */
 
 public abstract class BaseViewHolder<T,BINDER extends ViewDataBinding> extends RecyclerView.ViewHolder {
     protected final BINDER binder;

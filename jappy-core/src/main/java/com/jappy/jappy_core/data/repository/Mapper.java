@@ -3,9 +3,7 @@ package com.jappy.jappy_core.data.repository;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by irenecedeno on 06-02-18.
- */
+/** * Created by jhonnybarrios on 11/29/17. * colaborate  irenecedeno on 06-02-18. */
 
 public abstract class Mapper<T1, T2> {
 
